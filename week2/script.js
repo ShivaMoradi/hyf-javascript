@@ -5,7 +5,7 @@ console.log("Hej Världen!");
 console.log("I'm awesome");
 //exercise-2
 var x;
-console.log('the value of my variable x will be:' undefined);
+console.log('the value of my variable x will be:undefined');
 console.log('the valu of my variable x will be:' +x);
 var x=1;
 console.log("the value of x is:1");
@@ -23,8 +23,8 @@ var z=7.25;
 console.log('the value of z is:' +z);
 var a= Math.round(7.25);
 console.log(a);
-var b;
 a===z;
+var b;
 b= Math.max(a,z);
 console.log(b);
 //exercise-6
@@ -76,8 +76,8 @@ y = y % 2;
 console.log("the value of y will be :0");
 z = 10;
 z = z % 100;
-console.log("the value of z will be: 10");
-console.log("% is showing precent of a number");
+console.log("the value of z will be: 0");
+console.log("% is remainder");
 //exercise-10
 var myInfo= ["shiva", 1988];
 console.log(myInfo);
